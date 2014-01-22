@@ -1,8 +1,6 @@
 
 $(function(){ 
-$("#but").click(function(){
+$("#box1").click(function(){
 
-      $("#test").css("color","black");
-	  alert("dsfsd");
 });
  });
